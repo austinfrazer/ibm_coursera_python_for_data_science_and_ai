@@ -40,4 +40,4 @@ Thumbs.db
 # AF added
 .ipynb_checkpoints
 config.py
-__pycache__
+/__pycache__/
